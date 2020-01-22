@@ -1,0 +1,21 @@
+module.exports = {
+    correct: ":green_square:",
+    safetyNet: "⚠",
+    fatal: ":red_square:",
+    fatalBoom: ":anger:",
+    bomb: ":fire:",
+    bombBoom: ':flame:',
+    empty: ":white_medium_square:",
+    default: ":white_small_square:",
+    padding: ":black_small_square:",
+    hiddenFatal: ':o:',
+    user: "👤",
+    unavailable: "🚫",
+    numbers: [":zero:", ":one:", ":two:", ":three:", ":four:", ":five:", ":six:", ":seven:", ":eight:", ":nine:"],
+    selected: ":small_orange_diamond:",
+    unselected: ":small_blue_diamond:",
+    sumPaddingStart: ":small_orange_diamond:",
+    sumPaddingEnd: ":large_orange_diamond:",
+    sumEmpty: ":black_small_square:",
+    dot: ":small_blue_diamond:"
+};

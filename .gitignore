@@ -1,0 +1,5 @@
+node_modules/
+src/storage/results/sessions/*
+src/storage/aliases.json
+src/storage/planner.json
+src/constants/secure.js
