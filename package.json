@@ -1,0 +1,23 @@
+{
+  "name": "slotbot",
+  "version": "1.0.0",
+  "description": "Safe Slot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore '*.json' index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "md5": "^2.2.1",
+    "node-opus": "^0.3.3",
+    "node-vk-bot-api": "^2.4.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "^2.3.0"
+  }
+}
